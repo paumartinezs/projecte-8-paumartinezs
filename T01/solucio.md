@@ -4,7 +4,7 @@
 
 1- Pla d'Infraestructura: Croquis de l'aula amb la distribució dels equips i punts de xarxa.
 
-![][image1]
+![](../img/croquis.png)
 
 	
 
